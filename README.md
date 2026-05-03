@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Saba%20Egribas&fontSize=52&fontColor=fff&fontAlignY=40&desc=C%20·%20Python%20·%2042%20School&descAlignY=62&descColor=ffffffaa" />
 
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400" />
+
 </div>
 
 <br/>
@@ -17,9 +19,7 @@ I write **C** and **Python**, and I'm building toward freelance and professional
 ### Skills
 
 <div align="left">
-
 <img src="https://skillicons.dev/icons?i=c,python,linux,bash&theme=dark" />
-
 </div>
 
 ---
@@ -42,17 +42,15 @@ I write **C** and **Python**, and I'm building toward freelance and professional
 |---|---|
 | [A-maze-ing](https://github.com/Saba8749/A-maze-ing) ⭐ | Maze navigation in Python — logic, pathfinding, algorithmic thinking |
 | [Python-Module-01](https://github.com/Saba8749/Python-Module-01) | OOP — classes, `__init__`, instance methods |
-| [Python-Module-00](https://github.com/Saba8749/Python-Module-00) | Core Python — data types, control flow, scripting |
+| [Python-Module-00](https://github.com/Saba8749/Python-Module-00) | Core Python — data types, control flow, scripting basics |
 
 ---
 
 ### Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Saba8749&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800" width="47%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saba8749&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" width="37%" />
-
 </div>
 
 ---
