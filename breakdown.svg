@@ -1,0 +1,57 @@
+<svg width="800" height="351" viewBox="0 0 800 351" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1f35"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e3a5f"/>
+      <stop offset="50%" style="stop-color:#2d2b6b"/>
+      <stop offset="100%" style="stop-color:#1a3a5c"/>
+    </linearGradient>
+    <clipPath id="roundAll"><rect width="800" height="351" rx="14"/></clipPath>
+  </defs>
+  <rect width="800" height="351" rx="14" fill="url(#bgGrad)"/>
+  <rect width="800" height="351" rx="14" fill="none" stroke="#30363d" stroke-width="1"/>
+  <path d="M0,0 Q200,38 400,22 Q600,6 800,30 L800,0 Z" fill="url(#waveGrad)" opacity="0.9" clip-path="url(#roundAll)"/>
+  <path d="M0,351 Q200,313 400,329 Q600,345 800,321 L800,351 Z" fill="url(#waveGrad)" opacity="0.9" clip-path="url(#roundAll)"/>
+  <circle cx="48" cy="46" r="6" fill="#ff5f57"/>
+  <circle cx="68" cy="46" r="6" fill="#febc2e"/>
+  <circle cx="88" cy="46" r="6" fill="#28c840"/>
+  <text x="400" y="51" font-family="monospace" font-size="12" fill="#768390" text-anchor="middle">saba@42school: ~/stats</text>
+  <line x1="32" y1="64" x2="768" y2="64" stroke="#2d3a4a" stroke-width="1"/>
+  <text x="52" y="92" font-family="monospace" font-size="13" fill="#a371f7">~</text>
+  <text x="68" y="92" font-family="monospace" font-size="13" fill="#768390">❯</text>
+  <text x="86" y="92" font-family="monospace" font-size="13" fill="#cdd9e5">git stats --languages</text>
+  <line x1="52" y1="104" x2="748" y2="104" stroke="#2d3a4a" stroke-width="1"/>
+  <text x="70"  y="122" font-family="monospace" font-size="11" fill="#4a5568">LANGUAGE</text>
+  <text x="240" y="122" font-family="monospace" font-size="11" fill="#4a5568">USAGE</text>
+  <text x="552" y="122" font-family="monospace" font-size="11" fill="#4a5568">PCT</text>
+  <text x="600" y="122" font-family="monospace" font-size="11" fill="#4a5568">REPOS</text>
+  <line x1="52" y1="130" x2="748" y2="130" stroke="#2d3a4a" stroke-width="1"/>
+
+  <text x="52" y="155" font-family="monospace" font-size="12" fill="#768390">❯</text>
+  <text x="70" y="155" font-family="monospace" font-size="12" fill="#a371f7" font-weight="bold">Python</text>
+  <rect x="240" y="142" width="300" height="14" rx="3" fill="#1c2128"/>
+  <rect x="240" y="142" width="133" height="14" rx="3" fill="#a371f7" opacity="0.75"/>
+  <text x="552" y="155" font-family="monospace" font-size="12" fill="#a371f7">44%</text>
+  <text x="600" y="155" font-family="monospace" font-size="12" fill="#768390">4 repos</text>
+  <text x="52" y="197" font-family="monospace" font-size="12" fill="#768390">❯</text>
+  <text x="70" y="197" font-family="monospace" font-size="12" fill="#79c0ff" font-weight="bold">C</text>
+  <rect x="240" y="184" width="300" height="14" rx="3" fill="#1c2128"/>
+  <rect x="240" y="184" width="133" height="14" rx="3" fill="#79c0ff" opacity="0.75"/>
+  <text x="552" y="197" font-family="monospace" font-size="12" fill="#79c0ff">44%</text>
+  <text x="600" y="197" font-family="monospace" font-size="12" fill="#768390">4 repos</text>
+  <text x="52" y="239" font-family="monospace" font-size="12" fill="#768390">❯</text>
+  <text x="70" y="239" font-family="monospace" font-size="12" fill="#6e7681" font-weight="bold">Config / Shell</text>
+  <rect x="240" y="226" width="300" height="14" rx="3" fill="#1c2128"/>
+  <rect x="240" y="226" width="33" height="14" rx="3" fill="#6e7681" opacity="0.75"/>
+  <text x="552" y="239" font-family="monospace" font-size="12" fill="#6e7681">11%</text>
+  <text x="600" y="239" font-family="monospace" font-size="12" fill="#768390">1 repo</text>
+  <line x1="52" y1="291" x2="748" y2="291" stroke="#2d3a4a" stroke-width="1"/>
+  <text x="52"  y="313" font-family="monospace" font-size="12" fill="#768390">total</text>
+  <text x="240" y="313" font-family="monospace" font-size="12" fill="#cdd9e5">9 repos  ·  42 Core Curriculum</text>
+  <rect x="86" y="323" width="8" height="13" fill="#a371f7" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0;0.8" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
