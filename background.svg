@@ -1,0 +1,84 @@
+<svg width="800" height="440" viewBox="0 0 800 440" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1f35"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e3a5f"/>
+      <stop offset="50%" style="stop-color:#2d2b6b"/>
+      <stop offset="100%" style="stop-color:#1a3a5c"/>
+    </linearGradient>
+    <clipPath id="r"><rect width="800" height="440" rx="14"/></clipPath>
+  </defs>
+
+  <rect width="800" height="440" rx="14" fill="url(#bg)"/>
+  <rect width="800" height="440" rx="14" fill="none" stroke="#30363d" stroke-width="1"/>
+  <path d="M0,0 Q200,36 400,20 Q600,4 800,28 L800,0 Z" fill="url(#wave)" opacity="0.9" clip-path="url(#r)"/>
+  <path d="M0,440 Q200,404 400,420 Q600,436 800,412 L800,440 Z" fill="url(#wave)" opacity="0.9" clip-path="url(#r)"/>
+
+  <circle cx="48" cy="44" r="6" fill="#ff5f57"/>
+  <circle cx="68" cy="44" r="6" fill="#febc2e"/>
+  <circle cx="88" cy="44" r="6" fill="#28c840"/>
+  <text x="400" y="49" font-family="monospace" font-size="12" fill="#768390" text-anchor="middle">saba@42school: ~/projects</text>
+
+  <line x1="32" y1="62" x2="768" y2="62" stroke="#2d3a4a" stroke-width="1"/>
+
+  <text x="52" y="88" font-family="monospace" font-size="13" fill="#a371f7">~</text>
+  <text x="68" y="88" font-family="monospace" font-size="13" fill="#768390">❯</text>
+  <text x="86" y="88" font-family="monospace" font-size="13" fill="#cdd9e5">ls --completed</text>
+
+  <line x1="52" y1="100" x2="748" y2="100" stroke="#2d3a4a" stroke-width="1"/>
+  <text x="52"  y="118" font-family="monospace" font-size="11" fill="#4a5568">  #</text>
+  <text x="84"  y="118" font-family="monospace" font-size="11" fill="#4a5568">PROJECT</text>
+  <text x="280" y="118" font-family="monospace" font-size="11" fill="#4a5568">STACK</text>
+  <text x="344" y="118" font-family="monospace" font-size="11" fill="#4a5568">DESCRIPTION</text>
+  <line x1="52" y1="126" x2="748" y2="126" stroke="#2d3a4a" stroke-width="1"/>
+
+
+  <text x="52"  y="148" font-family="monospace" font-size="12" fill="#4a5568">01</text>
+  <text x="84"  y="148" font-family="monospace" font-size="12" fill="#cdd9e5">Libft</text>
+  <rect x="280" y="137" width="52" height="14" rx="3" fill="#79c0ff" opacity="0.15"/>
+  <text x="284" y="148"   font-family="monospace" font-size="11" fill="#79c0ff">C</text>
+  <text x="344" y="148"   font-family="monospace" font-size="12" fill="#768390">Custom C standard library — strings, memory, linked lists</text>
+  <text x="52"  y="178" font-family="monospace" font-size="12" fill="#4a5568">02</text>
+  <text x="84"  y="178" font-family="monospace" font-size="12" fill="#cdd9e5">printf</text>
+  <rect x="280" y="167" width="52" height="14" rx="3" fill="#79c0ff" opacity="0.15"/>
+  <text x="284" y="178"   font-family="monospace" font-size="11" fill="#79c0ff">C</text>
+  <text x="344" y="178"   font-family="monospace" font-size="12" fill="#768390">Reimplemented printf — variadic args, format specifiers</text>
+  <text x="52"  y="208" font-family="monospace" font-size="12" fill="#4a5568">03</text>
+  <text x="84"  y="208" font-family="monospace" font-size="12" fill="#cdd9e5">get_next_line</text>
+  <rect x="280" y="197" width="52" height="14" rx="3" fill="#79c0ff" opacity="0.15"/>
+  <text x="284" y="208"   font-family="monospace" font-size="11" fill="#79c0ff">C</text>
+  <text x="344" y="208"   font-family="monospace" font-size="12" fill="#768390">Line-by-line file reading via file descriptors</text>
+  <text x="52"  y="238" font-family="monospace" font-size="12" fill="#4a5568">04</text>
+  <text x="84"  y="238" font-family="monospace" font-size="12" fill="#cdd9e5">push_swap</text>
+  <rect x="280" y="227" width="52" height="14" rx="3" fill="#79c0ff" opacity="0.15"/>
+  <text x="284" y="238"   font-family="monospace" font-size="11" fill="#79c0ff">C</text>
+  <text x="344" y="238"   font-family="monospace" font-size="12" fill="#768390">Two-stack sorting — optimized for min operations</text>
+  <text x="52"  y="268" font-family="monospace" font-size="12" fill="#4a5568">05</text>
+  <text x="84"  y="268" font-family="monospace" font-size="12" fill="#cdd9e5">Born2beroot</text>
+  <rect x="280" y="257" width="52" height="14" rx="3" fill="#3fb950" opacity="0.15"/>
+  <text x="284" y="268"   font-family="monospace" font-size="11" fill="#3fb950">Linux</text>
+  <text x="344" y="268"   font-family="monospace" font-size="12" fill="#768390">Server from scratch — SSH, UFW, sudo, users</text>
+  <text x="52"  y="298" font-family="monospace" font-size="12" fill="#4a5568">06</text>
+  <text x="84"  y="298" font-family="monospace" font-size="12" fill="#cdd9e5">A-maze-ing ⭐</text>
+  <rect x="280" y="287" width="52" height="14" rx="3" fill="#a371f7" opacity="0.15"/>
+  <text x="284" y="298"   font-family="monospace" font-size="11" fill="#a371f7">Python</text>
+  <text x="344" y="298"   font-family="monospace" font-size="12" fill="#768390">Maze navigation — pathfinding, algorithmic logic</text>
+  <text x="52"  y="328" font-family="monospace" font-size="12" fill="#4a5568">07</text>
+  <text x="84"  y="328" font-family="monospace" font-size="12" fill="#cdd9e5">Python-Module-00</text>
+  <rect x="280" y="317" width="52" height="14" rx="3" fill="#a371f7" opacity="0.15"/>
+  <text x="284" y="328"   font-family="monospace" font-size="11" fill="#a371f7">Python</text>
+  <text x="344" y="328"   font-family="monospace" font-size="12" fill="#768390">Core Python — data types, control flow, scripting</text>
+  <text x="52"  y="358" font-family="monospace" font-size="12" fill="#4a5568">08</text>
+  <text x="84"  y="358" font-family="monospace" font-size="12" fill="#cdd9e5">Python-Module-01</text>
+  <rect x="280" y="347" width="52" height="14" rx="3" fill="#a371f7" opacity="0.15"/>
+  <text x="284" y="358"   font-family="monospace" font-size="11" fill="#a371f7">Python</text>
+  <text x="344" y="358"   font-family="monospace" font-size="12" fill="#768390">OOP — classes, __init__, instance methods</text>
+
+  <line x1="52" y1="392" x2="748" y2="392" stroke="#2d3a4a" stroke-width="1"/>
+  <rect x="52" y="406" width="8" height="13" fill="#a371f7" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0;0.8" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
