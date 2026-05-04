@@ -6,6 +6,19 @@
 
 <br/>
 
+📍 Heilbronn, Germany &nbsp;·&nbsp; 📫 [egribassaba@gmail.com](mailto:egribassaba@gmail.com) &nbsp;·&nbsp; [Upwork](https://www.upwork.com/freelancers/~01e1dfc7b8c59a7ed8)
+
+<br/>
+
+---
+
+**Developer in training at 42 School** — a project-based coding school with no teachers, no lectures, and no shortcuts. Every project is self-directed. Every bug is yours to fix.
+
+I write **C** and **Python**, and I'm building toward freelance and professional work.
+Before coding, I completed a full apprenticeship as a **Tool & Die Mechanic** *(Werkzeugmechaniker)* — precision work, technical specs, and fixing things that don't work.
+
+---
+
 <img src="https://skillicons.dev/icons?i=c,python,linux,bash&theme=dark" />
 
 <br/><br/>
@@ -19,10 +32,6 @@
 <br/>
 
 <img src="background.svg" />
-
-<br/>
-
-📫 [egribassaba@gmail.com](mailto:egribassaba@gmail.com) &nbsp;·&nbsp; [Upwork](https://www.upwork.com/freelancers/~01e1dfc7b8c59a7ed8) &nbsp;·&nbsp; Heilbronn, Germany
 
 </div>
 
