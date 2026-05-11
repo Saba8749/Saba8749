@@ -29,9 +29,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git stash
+          git stash || true
           git pull --rebase origin main
-          git stash pop
+          git stash pop || true
           git add breakdown.svg
           git diff --staged --quiet || git commit -m "chore: auto-update breakdown.svg"
           git push
