@@ -1,4 +1,3 @@
-
 name: Update Breakdown SVG
 
 on:
@@ -30,7 +29,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git stash
           git pull --rebase origin main
+          git stash pop
           git add breakdown.svg
           git diff --staged --quiet || git commit -m "chore: auto-update breakdown.svg"
           git push
