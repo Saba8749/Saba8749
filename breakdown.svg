@@ -33,24 +33,24 @@
   <text x="52" y="155" font-family="monospace" font-size="12" fill="#768390">❯</text>
   <text x="70" y="155" font-family="monospace" font-size="12" fill="#a371f7" font-weight="bold">Python</text>
   <rect x="240" y="142" width="300" height="14" rx="3" fill="#1c2128"/>
-  <rect x="240" y="142" width="133" height="14" rx="3" fill="#a371f7" opacity="0.75"/>
-  <text x="552" y="155" font-family="monospace" font-size="12" fill="#a371f7">44%</text>
+  <rect x="240" y="142" width="120" height="14" rx="3" fill="#a371f7" opacity="0.75"/>
+  <text x="552" y="155" font-family="monospace" font-size="12" fill="#a371f7">40%</text>
   <text x="600" y="155" font-family="monospace" font-size="12" fill="#768390">4 repos</text>
   <text x="52" y="197" font-family="monospace" font-size="12" fill="#768390">❯</text>
   <text x="70" y="197" font-family="monospace" font-size="12" fill="#79c0ff" font-weight="bold">C</text>
   <rect x="240" y="184" width="300" height="14" rx="3" fill="#1c2128"/>
-  <rect x="240" y="184" width="133" height="14" rx="3" fill="#79c0ff" opacity="0.75"/>
-  <text x="552" y="197" font-family="monospace" font-size="12" fill="#79c0ff">44%</text>
+  <rect x="240" y="184" width="120" height="14" rx="3" fill="#79c0ff" opacity="0.75"/>
+  <text x="552" y="197" font-family="monospace" font-size="12" fill="#79c0ff">40%</text>
   <text x="600" y="197" font-family="monospace" font-size="12" fill="#768390">4 repos</text>
   <text x="52" y="239" font-family="monospace" font-size="12" fill="#768390">❯</text>
   <text x="70" y="239" font-family="monospace" font-size="12" fill="#6e7681" font-weight="bold">Config / Shell</text>
   <rect x="240" y="226" width="300" height="14" rx="3" fill="#1c2128"/>
-  <rect x="240" y="226" width="33" height="14" rx="3" fill="#6e7681" opacity="0.75"/>
-  <text x="552" y="239" font-family="monospace" font-size="12" fill="#6e7681">11%</text>
-  <text x="600" y="239" font-family="monospace" font-size="12" fill="#768390">1 repo</text>
+  <rect x="240" y="226" width="60" height="14" rx="3" fill="#6e7681" opacity="0.75"/>
+  <text x="552" y="239" font-family="monospace" font-size="12" fill="#6e7681">20%</text>
+  <text x="600" y="239" font-family="monospace" font-size="12" fill="#768390">2 repos</text>
   <line x1="52" y1="291" x2="748" y2="291" stroke="#2d3a4a" stroke-width="1"/>
   <text x="52"  y="313" font-family="monospace" font-size="12" fill="#768390">total</text>
-  <text x="240" y="313" font-family="monospace" font-size="12" fill="#cdd9e5">9 repos  ·  42 Core Curriculum</text>
+  <text x="240" y="313" font-family="monospace" font-size="12" fill="#cdd9e5">10 repos  ·  42 Core Curriculum</text>
   <rect x="86" y="323" width="8" height="13" fill="#a371f7" opacity="0.8">
     <animate attributeName="opacity" values="0.8;0;0.8" dur="1.2s" repeatCount="indefinite"/>
   </rect>
